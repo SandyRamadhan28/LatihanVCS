@@ -12,22 +12,22 @@
 <p>Lakukan git clone https://github.com/SandyRamadhan28/LatihanVcs.git untuk memindahkan file yang ada pada github ke direktori C
 untuk mengecek https pada web dengan klik code pada repository<p>
 
-![img](screenshot/Salin Link.jpg)
+![img](screenshots/Salin Link.jpg)
 ### 6. Pindahkan penyimpanan ke folder yang diinginkan
-![Gambar 6](screenshot/Folder Penyimpanan.jpg)
+![Gambar 6](screenshots/Folder Penyimpanan.jpg)
 ### 7. Setelah itu lakukan syntax git clone https://github.com/SandyRamadhan28/LatihanVcs.git
-![img](screenshot/Git Clone.jpg)
+![img](screenshots/Git Clone.jpg)
 #### Cek direktori pada folder C di Laptop
-![img](screenshot/Hasil Clone.jpg)
+![img](screenshots/Hasil Clone.jpg)
 ### 8. Buka folder LatihanVCS, buka file README.md, dan edit file README.md 
-![Gambar 9](screenshot/1.jpg)
+![Gambar 9](screenshots/1.jpg)
 ### 9. Tambahkan syntax git add README.md
-![Gambar 10](screenshot/2.jpg)
+![Gambar 10](screenshots/2.jpg)
 ### 10. Tambahkan syntax git commit "Update file"
-![Gambar 11](screenshot/3.jpg)
+![Gambar 11](screenshots/3.jpg)
 ### 11. Tambahkan syntax git push -u origin main
-![gambar 12](screenshot/4.jpg)
+![gambar 12](screenshots/4.jpg)
 ### 12. Cek repository pada akun github
-![Gambar 13](screenshot/5.jpg)
+![Gambar 13](screenshots/5.jpg)
 
 <p>SELESAI.<p>
