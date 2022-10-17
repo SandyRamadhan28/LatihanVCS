@@ -1,11 +1,11 @@
 # LatihanVcs
 ## Langkah - langkah Penggunaan Git
 ### 1. Login terlebih dahulu di github.com
-![Gambar 1](Screenshots/loginGitHub.jpg)
+![Gambar 1](Screenshots/LoginGitHub.jpg)
 ### 2. Setelah login buat Repository baru pada github.com
 ![Gambar 2](Screenshots/TombolNew.jpg)
 ### 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
-![Gambar 3](Screenshot/CreateANew.jpg)
+![Gambar 3](Screenshot/CreateNew.jpg)
 ### 4. Login pada git bash menggunakan username dan email GitHub
 ![Gambar 4](Screenshots/LoginGitBash.jpg)
 ### 5. Masuk ke github dan copy link HTTPS untuk clone
