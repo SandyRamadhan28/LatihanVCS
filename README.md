@@ -1,18 +1,18 @@
 # LatihanVcs
 ## Langkah - langkah Penggunaan Git
 ### 1. Login terlebih dahulu di github.com
-![img](screenshots/loginGitHub.jpg)
+![Gambar 1](screenshots/loginGitHub.jpg)
 ### 2. Setelah login buat Repository baru pada github.com
-![img](screenshots/TombolNew.jpg)
+![Gambar 2](screenshots/TombolNew.jpg)
 ### 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
-![img](screenshot/CreateANew.jpg)
+![Gambar 3](screenshot/CreateANew.jpg)
 ### 4. Login pada git bash menggunakan username dan email GitHub
-![img](screenshots/LoginGitBash.jpg)
+![Gambar 4](screenshots/LoginGitBash.jpg)
 ### 5. Masuk ke github dan copy link HTTPS untuk clone
 <p>Lakukan git clone https://github.com/SandyRamadhan28/LatihanVcs.git untuk memindahkan file yang ada pada github ke direktori C
 untuk mengecek https pada web dengan klik code pada repository<p>
 
-![img](screenshots/SalinLink.jpg)
+![Gambar 5](screenshots/SalinLink.jpg)
 ### 6. Pindahkan penyimpanan ke folder yang diinginkan
 ![Gambar 6](screenshots/FolderPenyimpanan.jpg)
 ### 7. Setelah itu lakukan syntax git clone https://github.com/SandyRamadhan28/LatihanVcs.git
