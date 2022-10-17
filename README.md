@@ -5,7 +5,7 @@
 ### 2. Setelah login buat Repository baru pada github.com
 ![Gambar 2](Screenshots/TombolNew.jpg)
 ### 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
-![Gambar 3](Screenshot/CreateNew.jpg)
+![Gambar 3](Screenshot/Repositori.jpg)
 ### 4. Login pada git bash menggunakan username dan email GitHub
 ![Gambar 4](Screenshots/LoginGitBash.jpg)
 ### 5. Masuk ke github dan copy link HTTPS untuk clone
